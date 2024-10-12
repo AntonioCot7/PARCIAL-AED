@@ -1,0 +1,3 @@
+C:/Users/PC Antonio/OneDrive/Documentos/GITHUB-PARCIAL-AED/cmake-build-debug/CMakeFiles/GITHUB_PARCIAL_AED.dir
+C:/Users/PC Antonio/OneDrive/Documentos/GITHUB-PARCIAL-AED/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/PC Antonio/OneDrive/Documentos/GITHUB-PARCIAL-AED/cmake-build-debug/CMakeFiles/rebuild_cache.dir
