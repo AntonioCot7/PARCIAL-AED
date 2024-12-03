@@ -1,0 +1,3 @@
+C:/Users/PC Antonio/OneDrive/Documentos/AED-EXAMEN-FINAL/cmake-build-debug/CMakeFiles/AED_EXAMEN_FINAL.dir
+C:/Users/PC Antonio/OneDrive/Documentos/AED-EXAMEN-FINAL/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/PC Antonio/OneDrive/Documentos/AED-EXAMEN-FINAL/cmake-build-debug/CMakeFiles/rebuild_cache.dir
